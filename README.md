@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ViktorVolga
+- 👋 Hi, I’m Dorodnikov Viktor
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning in skill factory
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently looking for a job
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: @ViktorVolga in Telegramm
 
 <!---
