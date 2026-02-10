@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dorodnikov Viktor
-- 👀 I’m interested in C++, v4l2, embedded develop.
+- 👀 I’m interested in C++, embedded develop.
 - 🌱 I’m currently working as с++ developer.
 - 📫 How to reach me: @ViktorVolga in Telegramm 
-- 📫 How to reach me: Dorodnikovviktor@gmail.com
+- 📫 How to reach me: dorodnikovviktor@gmail.com
 
 
 
